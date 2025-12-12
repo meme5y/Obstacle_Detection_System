@@ -25,6 +25,14 @@ An intelligent obstacle detection system using Arduino Uno, ultrasonic/infrared 
 - **Serial communication** between systems
 
 ## 📁 Project Structure# Obstacle_Detection_System
+## 📁 Project Structure
+```
+Obstacle-Detection-System/
+├── 📁 arduino_code/           # Microcontroller firmware
+├── 📁 machine_learning/       # Python ML algorithms  
+├── 📁 documentation/          # Schematics & reports
+├── 📁 media/                 # Demo videos & photos
+└── 📁 datasets/              # Training data
 Autonomous Obstacle detection with Arduino and Mechanic learning 
 
 ## 🚀 Quick Start
