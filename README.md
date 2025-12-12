@@ -1,3 +1,10 @@
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-FF6F00?style=for-the-badge)
+![Made in Mozambique](https://img.shields.io/badge/Made_in-Mozambique-009639?style=for-the-badge)
+
+
+
 # 🛡️ Obstacle Detection System with Machine Learning
 
 ## 🎯 Project Overview
