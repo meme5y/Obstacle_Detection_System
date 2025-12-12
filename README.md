@@ -24,20 +24,7 @@ An intelligent obstacle detection system using Arduino Uno, ultrasonic/infrared 
 - **Scikit-learn** for prediction algorithms
 - **Serial communication** between systems
 
-## 📁 Project Structure# Obstacle_Detection_System
-```
-Obstacle-Detection-System/
-├── 📁 arduino_code/           # Microcontroller firmware
-├── 📁 machine_learning/       # Python ML algorithms  
-├── 📁 documentation/          # Schematics & reports
-├── 📁 media/                 # Demo videos & photos
-└── 📁 datasets/              # Training data
-
-
-Autonomous Obstacle detection with Arduino and Mechanic learning 
-
-
-## 🚀 How to Replicate This Project
+- ## 🚀 How to Replicate This Project
 ### For students with limited resources:
 1. Start with basic Arduino kit
 2. Learn from free online resources
@@ -72,3 +59,17 @@ I aim to:
 ---
 
 *"Talent is universal, but opportunity is not. This project is my proof that with determination, even the most limited resources can fuel innovation."* - Fernando Augusto
+
+
+## 📁 Project Structure# Obstacle_Detection_System
+```
+Obstacle-Detection-System/
+├── 📁 arduino_code/           # Microcontroller firmware
+├── 📁 machine_learning/       # Python ML algorithms  
+├── 📁 documentation/          # Schematics & reports
+├── 📁 media/                 # Demo videos & photos
+└── 📁 datasets/              # Training data
+
+
+Autonomous Obstacle detection with Arduino and Mechanic learning 
+
