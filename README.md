@@ -58,7 +58,7 @@ An intelligent obstacle detection system using Arduino Uno, ultrasonic/infrared 
 
 ## 🌟 Vision for the Future
 I aim to:
-1. Study Aerospace Engineering at Boston University
+1. Study Aerospace Engineering at American Universitys
 2. Develop affordable satellite technology for Africa
 3. Create educational programs for students like me
 4. Bridge the technology gap in developing countries
